@@ -1,0 +1,10 @@
+"OrderID","OrderDate","CustomerID","Product","Quantity","UnitPrice","Category","Region","Sales"
+1001,"2026-01-05","C01","Laptop",2,3200,"Electronics","North",6400
+1006,"2026-01-10","C06","Phone",2,3100,"Electronics","South",6200
+1004,"2026-01-08","C04","Desk",2,3000,"Furniture","West",6000
+1008,"2026-01-12","C02","Office Chair",2,2900,"Furniture","Unknown",5800
+1002,"2026-01-06","C02","Monitor",2,2800,"Electronics","South",5600
+1009,"2026-01-13","C07","Camera",2,2750,"Electronics","West",5500
+1005,"2026-01-09","C05","Tablet",2,2700,"Electronics","North",5400
+1003,"2026-01-07","C03","Printer",2,2600,"Electronics","East",5200
+1007,"2026-01-11","C01","Keyboard",1,2600,"Unknown","East",2600
